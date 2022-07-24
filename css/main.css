@@ -23,10 +23,6 @@ body {
     text-decoration: none
 }
 
-.current:active {
-    color: var(--accent-color)
-}
-
 /* Header */
 
 
